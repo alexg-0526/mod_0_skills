@@ -1,0 +1,13 @@
+Object: service
+
+Attributes:
+1. music_type
+2. quality_of_food
+3. restaurant_design
+4. cleanliness
+
+Method:
+1. the radio_station will help with the music_type
+2. better ingredients create a better quality_of_food
+3. different items change the restaurant_design
+4. cleaning will help with cleanliness
