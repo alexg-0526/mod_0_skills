@@ -1,0 +1,13 @@
+Class: Kitchen
+
+Attributes:
+1. cooking_time (integer)
+2. fresh_ingredients (string)
+3. staffing (array)
+4. orders_taken (boolean)
+
+Methods:
+1. higher_temperature (modifies cooking_time)
+2. local_products (modifies fresh_ingredients)
+3. more_employees (modifies staffing)
+4. slow_business (modifies orders_taken)
