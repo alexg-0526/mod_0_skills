@@ -1,0 +1,22 @@
+var food = pizza;
+var is_new = restaurant;
+var food = ice cream;
+var num1 = 26;
+var num2 = 5;
+var total = num1 * num2
+var movies = 'fast and the furious', 'cheech and chong', 'frozen'
+
+const movies = ['fast and the furios', 'cheech and chong', 'frozen'];
+
+console.log(movies.pop());
+// expected output: "frozen"
+
+console.log(movies);
+// expected output: Array ['fast and the furios', 'cheech and chong', 'frozen']
+
+movies.pop();
+
+console.log(movies);
+// expected output: Array ['fast and the furios', 'cheech and chong', 'frozen']
+
+arrayname.length
