@@ -1,0 +1,13 @@
+Class: Waiter
+
+Attributes:
+1. order_accuracy (boolean)
+2. number_of_tables (integer)
+3. customers (array)
+4. food_type(string)
+
+Methods:
+1. change_order(changes the order_accuracy attribute)
+2. party_size (changes the number_of_tables attribute)
+3. food items (changes the customer attribute)
+4. allergies (changes the food_type attribute)
