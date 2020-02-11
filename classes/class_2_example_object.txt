@@ -1,0 +1,13 @@
+Object: Organization
+
+Attributes:
+1. More_shelving
+2. clean_stations
+3. sharp_untensils
+4. better_equipment
+
+Methods:
+1. More_shelving will help with better storage
+2. clean_stations will provide a better workspace
+3. sharp_untensils will help cut ingredients faster
+4. better_equipment will cook the food a lot better 
